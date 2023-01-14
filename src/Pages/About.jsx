@@ -7,6 +7,7 @@ const About =() =>
         <div>
             <Link to="/Home">Home</Link>
             <h1>About Page</h1>
+            
         </div>
     )
 }
